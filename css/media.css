@@ -1,0 +1,50 @@
+@media(max-width:1199px){
+    .hg h1{
+        font-size: 30px;
+    }
+    
+}
+@media(max-width:991px){
+    .hg{
+        min-height: 80vh;
+    }
+    .heading-3 h1{
+        font-size: 35px;
+    }
+}
+
+@media(max-width:767px){
+    .logo img{
+        width: 90%;
+    }
+     .hg h1{
+        font-size:48px;
+    }
+    .last-item{
+        margin: auto;
+        margin-top: 30px;
+    }
+    .what-we{
+        background-size: 580px;
+        background-position: center;
+    }
+    .heading-3 h1{
+        font-size: 35px;
+    }
+}
+@media(max-width:575px){
+    .hg h1{
+        font-size: 37px;
+    }
+    .hg{
+        min-height: 50vh;
+    }
+    .logo img{
+        width: 80%;
+    }
+    .last-item{
+        margin: auto;
+        margin-top: 30px;
+    }
+    
+}
